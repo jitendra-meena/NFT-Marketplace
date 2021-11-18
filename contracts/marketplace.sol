@@ -1307,7 +1307,7 @@ function resellAuctionNFT(uint256 _token, string memory _newName,string memory _
 //     }
 //     function getAuctionRoyalty(uint256 _token, uint256 _highestBidPrice) view public returns(uint256) {
 //         return (_highestBidPrice*imageData[_token].Royalty)/100;
-//     }
+// //    }
     
 }
 
